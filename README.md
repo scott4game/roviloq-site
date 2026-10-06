@@ -7,7 +7,7 @@ Public privacy policy and support pages for Roviloq, in English, Chinese and Jap
 - 中文: https://scott4game.github.io/roviloq-site/zh.html
 - 日本語: https://scott4game.github.io/roviloq-site/ja.html
 
-Contact: otsgame@gmail.com
+Contact: otsgame@yahoo.com
 
 ## Deployment
 
